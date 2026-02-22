@@ -466,10 +466,10 @@
     24시간 무료상담 · 무료출장
   </div>
   <h1 class="hero-title fade-up">
-    결과는 확실하게,<br>가격은 <span class="gold">저렴하게</span>
+    결과는 확실하게<br>가격은 <span class="gold">저렴하게</span>
   </h1>
   <p class="hero-sub fade-up">
-    진짜고수는 해당 분야에서 검증된<br>최고의 닥터들이 직접 방문드립니다.<br>일반업체와 결과물의 차이를 경험하세요.
+    진고는 해당 분야에서 검증된<br>최고의 닥터들이 직접 방문드립니다.<br>일반업체와 결과물의 차이를 경험하세요.
   </p>
   <div class="hero-cta fade-up">
     <a href="tel:01092795589" class="btn-primary">
@@ -502,7 +502,7 @@
 <section class="why" id="why">
   <span class="section-tag fade-up">Why JINGO</span>
   <h2 class="section-title fade-up">진고를 선택해야<br>하는 이유</h2>
-  <p class="section-desc fade-up">최선의 노력으로도 해결 안 됐다면,<br>이제 진짜 고수를 불러주세요.</p>
+  <p class="section-desc fade-up">최선의 노력으로도 해결 안 됐다면,<br>이제 진짜 고수(진고)를 불러주세요.</p>
   <div class="why-grid">
     <div class="why-card fade-up">
       <div class="why-icon">🏆</div>
